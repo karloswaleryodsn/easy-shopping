@@ -1,0 +1,22 @@
+.box-sizing {
+
+    width: 100px;
+    height: 100px;
+    background: brown;
+    padding: 20px;
+    border: 10px solid green;
+
+}
+
+* {
+
+    box-sizing: border-box;
+
+    /*
+A propriedade box-sizing: border-box é utilizada para alterar o cálculo das larguras e alturas dos elementos em CSS12345. 
+Ela informa ao navegador que é necessário levar em conta as bordas e margens nos valores que você especificar para a largura e altura de um elemento1. 
+Com essa propriedade, o navegador calcula a largura/altura do elemento contando não apenas o seu conteúdo, 
+mas também considerando o padding (espaçamento) e border (borda) do elemento2.*/
+
+}
+

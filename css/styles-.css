@@ -1,0 +1,26 @@
+h1 {
+
+    color: black;
+    background-color: blue;
+}
+
+p {
+    color: black;
+    font-size: 40;
+
+}
+
+button {
+
+    background-color: darkgray;
+    color: black;
+    border-color: crimson;
+
+
+}
+* {
+
+background:#68DDC8 ;
+
+
+}

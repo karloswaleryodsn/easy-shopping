@@ -1,0 +1,24 @@
+.box {
+
+    width: 50px;
+    height: 50px;
+    background: darkcyan;
+    margin: 20px;/*espaçamento interno (A propriedade margin do CSS define a área de margem nos quatro lados do elemento. É uma abreviação que define todas as margens individuais de uma só vez) (espaçamento esterno)*/
+    
+    }
+
+    .box-2 {
+
+        width: 50px; /*largura*/
+        height: 50px;/*altura*/
+        background: #4B0082;
+        padding: 50px; /*define uma a distância entre o conteúdo de um elemento e suas bordas.(espaçamento interno)*/
+        margin-top: 20px; /*aplica na parte de cima*/
+        margin-bottom: 20px;/*aplica na parte de baixo*/
+        margin-right: 10px;/*aplica do lado direto*/
+        margin-left: 5px; /*aplica pro lado esquerdo*/
+
+       margin: 10px 50px 30px 5px;
+/*             12h  15h  18h  21h     */
+
+    }

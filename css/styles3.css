@@ -1,0 +1,61 @@
+.box {
+
+    background: blueviolet;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    display: inline;
+    /*fica em linha, um do lado do outro(no display inline,ele ignora os valores de altura e largura,também ignora os valores:margin,top e borom) */
+}
+
+.box-2 {
+
+
+    background: brown;
+}
+
+.box-3 {
+
+    background: darkgreen;
+
+}
+
+
+
+
+
+/*display
+
+    block 
+    inline
+    inline block
+
+    grid
+    flex
+
+
+_BLOCK
+     vem como padrão:div,section,h1,h2;ul,li, article
+
+     _ocupa 100% da largura do elemento pai
+     _sempre ocupa toda a sua linha
+     _altura definida de acordo com o conteúdo
+     _podemos definir height e widht
+     _podemos definir valores de margin
+
+
+_INLINE
+    vem como padrão a,spam,b,i...
+
+    _elementos em linha 
+    _não permite alterar height e widht
+    _não podemos definir valores de margin top e bottom]
+    _ganha comportamento de uma palavra
+
+_INLINE-BLOCK (mistura do inline com block)
+
+   _elementos em linha,porém com cacteristicas do display block 
+   _altura e largura podem ser alteradas
+   _com o inline block,conseguimos definir altura(height) largura(widht) e também,podemos definir margens=espaçamento interno 
+   (A propriedade margin do CSS define a área de margem nos quatro lados do elemento.
+    É uma abreviação que define todas as margens individuais de uma só vez)*/

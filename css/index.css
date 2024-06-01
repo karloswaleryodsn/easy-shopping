@@ -1,0 +1,25 @@
+h1 {  
+
+
+    color:red;
+    font-size: 50px;
+    font-weight:lighter;
+    font-family:'Roboto' sans-serif;
+    font-style:italic; /*fonte da letra*/
+    text-shadow:10px 10px 10px palevioletred; /*podemos colocar uma sombra no nosso texto,também podemos colocar o tanto da sombra na horizontal (-),Na vertical(|),e o quão esfumaçado vai ter a sombra,E tambem podemos colocar a cor da somnbra.*/ 
+}
+
+ p {
+
+    color:blue; /*cor do paragrafo*/
+    font-size:20px ; /*grossura da letra*/
+    font-weight:lighter; /*fonte em negrito maximo,bold negrito normal,lighter fonte fina*/
+    font-family:'Roboto',sans-serif; /*fonte do texto*/
+    line-height:50px; /*fontes(letras)mais espaçadas*/
+    letter-spacing:5px; /*espaçamento entre as letras*/
+    word-spacing:30 ; /*espaçamento entre as palavras*/
+    text-align:justify ; /*alinhamento do texto*/
+    text-transform:capitalize; /*pode deixar todas as letras maiusculas ou minusculas*/
+    text-decoration:underline; /*podemos colocar "coisas" no texto,como linhas etc*/
+
+  }

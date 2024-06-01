@@ -1,0 +1,42 @@
+/* RESPONSIVIDADE
+
+all: para todos os dispositivos
+braille:para dispositivos que inprimem em braille / O Braille é um sistema de leitura e escrita tátil utilizado por pessoas cegas ou com baixa visão.
+handheld:para dispositivos portatéis, geralmente com telas pequenas e banda limitada.
+print:para impressão em papel.
+projection:para apresentações como pps.
+screen: para monítores ou dispositivos com telas coloridas e resolução adequada.
+speech:para sintetizadores de voz.As css 2 tem uma especificação de css chamada Arual,onde podemos formatar a voz dos sintetizadores.
+
+ORIENTAÇÃO
+portrait ->altura maior que a largura  /celular em pé.
+landscape ->largura maior que a altura  /celular deitado.
+*/
+
+* {
+
+    margin: 0px;
+    width: 0px;
+    box-sizing: border-box;
+
+}
+
+div {
+
+    height: 700px;
+    width: 700px;
+    background: blue;
+
+}
+             /*e*/                  /*e*/
+@media screen and (max-width: 600px) and (orientation: landscape) {
+
+div {
+
+    background: red;
+    height: 200px;
+    width: 200px;
+
+}
+
+}

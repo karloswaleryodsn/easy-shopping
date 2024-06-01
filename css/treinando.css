@@ -1,0 +1,54 @@
+
+
+#titulo  {
+
+    color:black;
+font-size: 30px;
+font-weight:bold;
+
+}
+
+#paragrafo {
+
+color:blue;
+
+}
+
+
+h1 {
+     color:bisque;
+    background-color:hotpink;
+
+}
+
+p {
+
+     color: black;
+     
+}
+
+button {
+
+    color:blue;
+    background-color:darkgray;
+    border-color:black;
+
+
+}
+
+       
+
+button {
+
+    color:crimson;
+    font-weight:bolder;
+    background:black
+
+}
+
+* {
+
+background:blueviolet ;
+
+}
+

@@ -1,0 +1,116 @@
+/*
+    RED
+    GREEN
+    BLUE 
+*/
+
+h3 {
+
+    text-decoration: underline;
+    font-size: 36px;
+    text-align:center;
+
+}
+
+
+
+
+#paragrafo {
+
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+#outro-titulo {
+
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: bold;
+    text-decoration: underline;
+    display:inline-block;
+   
+
+}
+
+#botao {
+
+    color: black;
+
+
+
+}
+
+#segundo-botao {
+
+
+    color: black;
+
+}
+
+
+p {
+
+    text-align: justify;
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+
+h1 {
+
+    color:azure;
+    font-weight: bolder;
+    font-size: 60px;
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 10px 10px 12px #070808;
+    text-decoration: underline;
+    background:#FFCAD1;
+    margin: 8px 15px 30px 15px;
+
+
+}
+
+h2 {
+
+
+    font-size: 35px;
+    text-decoration: underline;
+
+
+}
+
+.minha-imagem  {
+    
+    text-align: center;
+    padding:20px;
+    display:inline-block ;
+    cursor: pointer;
+
+}
+
+.imagem-2 {
+
+    display:inline-block ;
+    cursor: pointer;
+
+}
+
+.imagem-3 {
+
+display: inline-block;
+text-align: center;
+padding:20px;
+cursor: pointer;
+
+}
+
+* {
+
+background:azure;
+
+}

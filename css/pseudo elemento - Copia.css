@@ -1,0 +1,31 @@
+/*pseudo elemento são formas de trocarmos algumas coisas especificas dentro dos elementos.*/
+
+
+
+
+input {
+
+border: 1px solid red;
+color: blue;
+
+
+}
+
+input::placeholder {
+
+color: palevioletred;
+
+
+
+}
+
+p::first-line {
+
+color: red;
+
+}
+/*first-line irá colorir somente a primeira linha
+
+já o- first-letter vai estilizar somente a primeira letra*/
+
+

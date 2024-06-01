@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900;500;400&display=swap');
+
+*  {
+
+        font-family: 'montserrat',sans-serif;
+        margin: 0;
+        padding: 0; 
+        box-sizing: border-box;
+
+
+}
+
+h1 {
+
+        color: #515151;
+        font-size: 70px;
+        font-weight: 900px;
+        line-height: 122px;
+
+}
+
+
+
+
+.parte-superior  {
+
+        font-weight: 600px;
+        font-size:24px;
+        color: #989D9C;
+        letter-spacing:1px ;
+        cursor: pointer;
+        margin:0px 2px 0px 58px ;
+
+}
+
+.meu-botao {
+
+        height: 41px;
+        width: 130px;
+        background:#665AE1 ;
+        cursor: pointer;
+        border-radius: 20.5px;
+        border: none;
+        font-size: 24px;
+        line-height:29px ;
+        color: #ffffffff;
+       margin-left: 10px;
+
+
+}
+
+img  {
+
+       display: inline-block;
+       Width:568px;
+       Height:500px;
+       margin-Left:125px;
+
+}
+
+div  {
+
+        display: inline-block;
+        margin: 0px 0px 15px 65px;
+
+}
+        
+P {
+
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #848484;
+    width: 515px;
+    margin-top: 32px;
+    margin-bottom: 65px;
+   
+
+}
+
+h2 {
+
+    font-weight: 500;
+    font-size: 58px;
+    line-height: 71px;
+    color: #515151;
+
+}
+
+.segundo-botao {
+
+        background: #adff00;
+        border-radius: 30px;
+        width: 239px;
+        height: 64px;
+        border: none;
+        cursor: pointer;
+        filter:drop-shadow(8px 4px 4px  rgba(0,0,0,25));
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 34px;
+        color: black;
+
+}
+
+header {
+
+    margin: 4em 0 144px 76px;
+      
+
+}
